@@ -7,109 +7,92 @@
 .m-4 {
   height: 150px; }
 
-.body1 {
+.navbar {
+  z-index: 1000; }
+
+@media screen and (min-width: 990px) {
+  .container__icons {
+    order: 3; } }
+
+.bodyIndex {
   background-color: #616160; }
-  .body1 .row {
-    color: #eeeeee; }
-  @media screen and (min-width: 990px) {
-    .body1 .container__icons {
-      order: 3; } }
-  .body1 h1 {
-    color: #f0f1f1;
+  .bodyIndex div.row {
+    color: #e4e2e2; }
+  .bodyIndex h1 {
+    color: #e4e2e2;
     position: relative;
     bottom: 1rem;
     font-family: "Spartan", sans-serif; }
-  .body1 .input-group {
+  .bodyIndex .input-group {
     padding: 50px; }
-  .body1 .img-fluid {
-    object-fit: cover;
-    border-radius: 10px; }
-  .body1 .badge {
-    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif; }
-  .body1 .my-0 {
+    .bodyIndex .input-group .img-fluid {
+      object-fit: cover;
+      border-radius: 10px; }
+    .bodyIndex .input-group .badge {
+      font-family: "Spartan", sans-serif; }
+  .bodyIndex .contenedor_cards .my-0 {
     color: white;
     font-family: "Spartan", sans-serif; }
-  .body1 .card-title {
+  .bodyIndex .contenedor_cards .card-title {
     color: white;
     font-family: "Spartan", sans-serif;
     padding: 1rem; }
-  .body1 .navbar {
-    z-index: 1000; }
-  .body1 .fotos__pago {
-    width: 500px; }
+  .bodyIndex .contenedor_cards .fotos__pago {
+    width: 11rem; }
 
-.contacto1 {
-  width: 100%;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center; }
-  .contacto1 .mb-4 {
-    color: #f0f9ff;
-    background-color: #423f29;
-    padding-right: 20px;
-    padding-left: 20px; }
-    .contacto1 .mb-4 .mb-5 {
-      font-family: "Spartan", sans-serif; }
-  .contacto1 .btn__send {
+.galeria1 {
+  background-color: #616160; }
+  .galeria1 .tituGal {
+    display: flex;
+    justify-content: center;
+    background-color: #3a3932;
+    padding: 1rem;
+    margin: 2rem;
+    font-family: "Spartan", sans-serif;
+    color: #e4e2e2; }
+  .galeria1 .button_1 {
     position: relative;
-    top: 10px; }
-  .contacto1 .tittle1 {
-    font-family: "Spartan", sans-serif; }
-
-.body2 .tituGal {
-  display: flex;
-  justify-content: center;
-  background-color: #3a3932;
-  padding: 1rem;
-  margin: 2rem; }
-
-.body2 .button_1 {
-  position: relative;
-  top: 10rem;
-  margin: 50px; }
-
-.body2 .cards {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(25%, 1fr));
-  padding: 15px;
-  user-select: none; }
-  .body2 .cards .card-cover {
-    position: relative;
-    height: 500px;
-    cursor: pointer;
-    padding: 1rem; }
-  .body2 .cards .card-cover__background {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    position: absolute;
-    z-index: -1;
-    transition: all 0.2s ease-in-out; }
-  .body2 .cards .card-cover__body {
+    top: 10rem;
+    margin: 50px; }
+  .galeria1 .cards {
     display: grid;
-    align-content: center;
-    align-items: center;
-    text-align: center;
-    color: #fff;
-    position: relative;
-    background-color: rgba(27, 27, 27, 0.45);
-    width: 100%;
-    height: 100%;
-    transition: background-color 0.5s ease;
-    overflow: hidden; }
-  .body2 .cards .card-cover__body:hover {
-    background-color: transparent;
-    color: rgba(190, 190, 190, 0.904); }
-  .body2 .cards .card-cover__body:hover > img {
-    transform: scale(1.3); }
+    grid-template-columns: repeat(auto-fill, minmax(25%, 1fr));
+    padding: 15px;
+    user-select: none; }
+    .galeria1 .cards .card-cover {
+      position: relative;
+      height: 500px;
+      cursor: pointer;
+      padding: 1rem; }
+    .galeria1 .cards .card-cover__background {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      position: absolute;
+      z-index: -1;
+      transition: all 0.2s ease-in-out; }
+    .galeria1 .cards .card-cover__body {
+      display: grid;
+      align-content: center;
+      align-items: center;
+      text-align: center;
+      color: #fff;
+      position: relative;
+      background-color: rgba(27, 27, 27, 0.45);
+      width: 100%;
+      height: 100%;
+      transition: background-color 0.5s ease;
+      overflow: hidden; }
+    .galeria1 .cards .card-cover__body:hover {
+      background-color: transparent;
+      color: rgba(190, 190, 190, 0.904); }
+    .galeria1 .cards .card-cover__body:hover > img {
+      transform: scale(1.3); }
+  @media (max-width: 500px) {
+    .galeria1 .cards {
+      grid-template-columns: 1fr; } }
 
-@media (max-width: 500px) {
-  .body2 .cards {
-    grid-template-columns: 1fr; } }
-
-.body2 .tituloVideos {
+.tituloVideos {
   color: #f0f9ff;
   display: flex;
   justify-content: center;
@@ -118,91 +101,163 @@
   margin: 5rem;
   font-family: "Spartan", sans-serif; }
 
-.body2 .containerVideos {
-  display: flex;
-  flex-wrap: wrap; }
-
-.body2 .containerVideos div {
-  background-image: url("https://media2.giphy.com/media/pWhWtKdqwOAco/giphy.gif?cid=ecf05e47892smxbs6jwfxum8v5v55n9kelowy7mqfssj8662&rid=giphy.gif&ct=g");
-  object-fit: cover;
-  background-size: cover;
-  border-radius: 12rem;
-  padding: 2rem;
-  margin: 3rem;
-  flex: 1; }
-
-.body2 .video1 {
-  display: flex;
-  justify-content: center; }
-
-.body2 .edit1 {
-  border-radius: 1rem; }
-
-.pos1 {
-  padding: 50px; }
-
-.tituloNos {
-  display: flex;
+.gallery {
+  display: grid;
   justify-content: center;
-  background-color: #3a3932;
-  padding: 1rem;
-  margin: 2rem; }
+  margin: 5rem;
+  grid-template-columns: 40% 20% 20% 20%;
+  grid-template-rows: 200px 150px 100px;
+  background-color: whitesmoke; }
 
-.flex2 {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin: 2rem;
-  padding: 1rem;
-  background-color: #3a3932;
-  flex-wrap: wrap; }
-
-.div10 {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  background-color: #2c2b2c;
-  font-size: 2rem;
-  color: white;
-  flex: 1 400px;
-  padding: 2.5rem;
-  margin: 0.5rem; }
-
-.tituloNosotros {
-  font-family: "Spartan", sans-serif;
-  padding: 1.5rem; }
-
-.parrafoNosotros {
-  font-size: 1rem;
-  font-family: "Spartan", sans-serif; }
-
-.icono7 {
-  height: 5rem;
+.gallery iframe {
+  width: 100%;
+  height: 100%;
   object-fit: cover; }
 
-iframe {
-  max-width: 100%;
-  height: auto; }
+.gallery iframe:nth-child(1) {
+  grid-row-start: 1;
+  grid-row-end: 4;
+  grid-column-start: 1;
+  grid-column-end: 2; }
 
-.mapa {
-  display: flex;
-  justify-content: center; }
+.gallery iframe:nth-child(2) {
+  grid-row-start: 1;
+  grid-row-end: 2;
+  grid-column-start: 2;
+  grid-column-end: 5; }
 
-.prueba1 {
-  background-color: #5f6149;
-  padding: 15px;
-  border-radius: 5px;
-  width: 5px; }
+.gallery iframe:nth-child(3) {
+  grid-row-start: 2;
+  grid-row-end: 3;
+  grid-column-start: 2;
+  grid-column-end: 4; }
 
-.subtitulo2 {
-  background-color: #3a3932;
-  color: white;
-  font-family: "Spartan", sans-serif;
-  padding: 1rem;
-  margin: 5rem;
-  display: flex;
-  justify-content: center; }
+.gallery iframe:nth-child(4) {
+  grid-row-start: 2;
+  grid-row-end: 3;
+  grid-column-start: 4;
+  grid-column-end: 5; }
+
+.gallery iframe:nth-child(5) {
+  grid-row-start: 3;
+  grid-row-end: 4;
+  grid-column-start: 2;
+  grid-column-end: 3; }
+
+.gallery iframe:nth-child(6) {
+  grid-row-start: 3;
+  grid-row-end: 4;
+  grid-column-start: 3;
+  grid-column-end: 4; }
+
+.gallery iframe:nth-child(7) {
+  grid-row-start: 3;
+  grid-row-end: 4;
+  grid-column-start: 4;
+  grid-column-end: 5; }
+
+.container_video {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  gap: 20px 50px;
+  grid-template-areas: "video1 descripcion1 descripcion1" "descripcion2 descripcion2 video2" "video3 descripcion3 descripcion3"; }
+
+.video1 {
+  grid-area: video1; }
+
+.descripcion1 {
+  grid-area: descripcion1; }
+
+.video2 {
+  grid-area: video2; }
+
+.descripcion2 {
+  grid-area: descripcion2; }
+
+.video3 {
+  grid-area: video3; }
+
+.descripcion3 {
+  grid-area: descripcion3; }
+
+.nosotros1 {
+  background-color: #616160; }
+  .nosotros1 h2 {
+    display: flex;
+    justify-content: center;
+    background-color: #3a3932;
+    padding: 1rem;
+    margin: 2rem;
+    color: #e4e2e2;
+    font-family: "Spartan", sans-serif; }
+  .nosotros1 h3 {
+    font-family: "Spartan", sans-serif;
+    padding: 1.5rem;
+    color: #e4e2e2; }
+  .nosotros1 section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem;
+    padding: 1rem;
+    background-color: #3a3932;
+    flex-wrap: wrap; }
+    .nosotros1 section p {
+      font-size: 1rem;
+      font-family: "Spartan", sans-serif;
+      color: #e4e2e2; }
+    .nosotros1 section div {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      background-color: #2b2a2a;
+      font-size: 2rem;
+      color: #e4e2e2;
+      flex: 1 400px;
+      padding: 2.5rem;
+      margin: 0.5rem; }
+      .nosotros1 section div img {
+        height: 5rem;
+        object-fit: cover; }
+  .nosotros1 .grid1 {
+    background-color: #3a3932;
+    margin: 4rem;
+    padding: 2rem; }
+    .nosotros1 .grid1 span {
+      background-color: #2b2a2a;
+      border: solid #525050;
+      border-width: 50px;
+      padding: 1px; }
+    .nosotros1 .grid1 p {
+      color: #e4e2e2;
+      font-family: "Spartan", sans-serif;
+      font-style: oblique; }
+
+.bodyContacto {
+  background-color: #616160; }
+  .bodyContacto main {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #2b2a2a; }
+    .bodyContacto main h2 {
+      font-family: "Spartan", sans-serif;
+      color: #e4e2e2; }
+  .bodyContacto section {
+    color: #e4e2e2;
+    background-color: #423f29;
+    padding-right: 20px;
+    padding-left: 20px; }
+    .bodyContacto section .mb-5 {
+      font-family: "Spartan", sans-serif; }
+  .bodyContacto .btn__send {
+    position: relative;
+    top: 10px; }
 
 .text-white {
   font-family: "Spartan", sans-serif;

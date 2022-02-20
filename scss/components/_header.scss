@@ -1,3 +1,12 @@
 .m-4{
     height: 150px;
 }
+.navbar {
+    z-index: 1000;
+  }
+//iconos-Barra-Derecha//
+  @media screen and (min-width: 990px) {
+    .container__icons {
+      order: 3;
+    }
+  }
