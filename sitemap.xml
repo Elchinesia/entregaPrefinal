@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/issues</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/pulls</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/actions</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/projects?type=beta</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/security</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/commit/e4bcdab22c2e92fa3b7412ff8049ee7b8feda176</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/blob/master/.gitignore</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/blob/master/index.html</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/blob/master/package-lock.json</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/blob/master/package.json</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/releases</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/labels</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/milestones</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/compare</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/actions/runs/1885066414</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/actions/runs/1873873434</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/actions/runs/1871496152</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/actions/runs/1861898036</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/actions/runs/1834486781</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/actions/runs/1797841063</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/actions/runs/1797832053</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/actions/runs/1793040261</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/actions/runs/1793025916</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/actions/runs/1792987845</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/actions/runs/1792956302</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/actions/runs/1792920756</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/actions/runs/1792891835</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/actions/runs/1792851377</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/actions/runs/1792753827</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/actions/runs/1792733159</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/actions/runs/1792725454</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/projects</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/security/policy</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/security/advisories</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/commit/1cc74badf4c608b611879bebff38adb3946dd323</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/blob/e4bcdab22c2e92fa3b7412ff8049ee7b8feda176/.gitignore</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/find/master</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/blob/e4bcdab22c2e92fa3b7412ff8049ee7b8feda176/index.html</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/blob/e4bcdab22c2e92fa3b7412ff8049ee7b8feda176/package-lock.json</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/blob/e4bcdab22c2e92fa3b7412ff8049ee7b8feda176/package.json</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/labels?sort=name-asc</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/labels?sort=name-desc</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/labels?sort=count-desc</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/labels?sort=count-asc</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/labels/bug</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/labels/documentation</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/labels/duplicate</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/labels/enhancement</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/labels/good%20first%20issue</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/labels/help%20wanted</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/labels/invalid</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/labels/question</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/labels/wontfix</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/milestones?state=open</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/milestones?state=closed</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/runs/5297807278?check_suite_focus=true</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/runs/5297811514?check_suite_focus=true</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/runs/5268427436?check_suite_focus=true</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/runs/5268431156?check_suite_focus=true</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/runs/5263746033?check_suite_focus=true</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/runs/5263748699?check_suite_focus=true</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/commit/ae2e233485f8c76464f971d7bde2cde26d83d17d</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/runs/5241208577?check_suite_focus=true</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/runs/5241212475?check_suite_focus=true</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/commit/a47939a0d03903677d5f40e850a6e2651f29a5f4</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/runs/5168902212?check_suite_focus=true</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/runs/5168905404?check_suite_focus=true</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/commit/39a15706affc62ae8d44e6f9f4d45480ab602b10</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/runs/5074535484?check_suite_focus=true</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/runs/5074539521?check_suite_focus=true</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/runs/5074514786?check_suite_focus=true</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/runs/5074518663?check_suite_focus=true</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/commit/d57fbc1db5b06b697141f717d80e9ea1d5f47541</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/runs/5061644974?check_suite_focus=true</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/runs/5061649003?check_suite_focus=true</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/commit/cd29833794b78866ef2560d3d9691ae68c302075</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/runs/5061612173?check_suite_focus=true</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/runs/5061616114?check_suite_focus=true</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/commit/50ad25839525a87ae2ba832f5d7a0eae94897a58</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/runs/5061520477?check_suite_focus=true</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/runs/5061523307?check_suite_focus=true</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/runs/5061445821?check_suite_focus=true</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/runs/5061448534?check_suite_focus=true</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/runs/5061367117?check_suite_focus=true</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/runs/5061370993?check_suite_focus=true</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/commit/89340715e5f9dd1ed6be48200eae75c99b76fc72</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/runs/5061301170?check_suite_focus=true</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/runs/5061305375?check_suite_focus=true</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/runs/5061208883?check_suite_focus=true</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/runs/5061212859?check_suite_focus=true</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/commit/e6337d461c3c2c44af8f141789ba458527d4edb0</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/runs/5060985541?check_suite_focus=true</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/runs/5060989685?check_suite_focus=true</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/commit/686fadab02429bd01da87c3fb98dc04904f61b05</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/runs/5060939136?check_suite_focus=true</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/runs/5060943867?check_suite_focus=true</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/commit/31b1b48bcb4327a8d7fe7718f10efe418afd96c4</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/runs/5060921153?check_suite_focus=true</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/runs/5060925760?check_suite_focus=true</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/commit/43b45c3c488b3789682df2ad58866eab194cfe31</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/security/advisories?state=published</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/find/e4bcdab22c2e92fa3b7412ff8049ee7b8feda176</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/vs-in/entregaPrefinal/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-02-23T02:26:37+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>
